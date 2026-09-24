@@ -1,0 +1,7 @@
+target-version = "py310"
+[lint]
+select = ["E4", "E7", "E9", "F", "I"]
+[lint.per-file-ignores]
+# GTK requires selecting the GI version before importing its namespaces;
+# --version also deliberately works without GTK installed.
+"plainpad.py" = ["E402"]

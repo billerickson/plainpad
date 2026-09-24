@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Plainpad
+Comment=Quick plain-text scratchpad
+Exec=plainpad
+Icon=local.plainpad.Plainpad
+Terminal=false
+Categories=Utility;TextEditor;
+Keywords=text;scratchpad;clipboard;plain;
+StartupWMClass=local.plainpad.Plainpad
