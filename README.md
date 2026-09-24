@@ -129,4 +129,7 @@ It needs `xvfb`, `xdotool`, `xclip`, and GTK/PyGObject. See
 [verification notes](docs/verification.md) for the Wayland checks and release
 scope. Bug reports and small, focused contributions are welcome on GitHub.
 
+Future directory integration is tracked in the
+[Omarchy plugin roadmap](docs/omarchy-plugin-roadmap.md).
+
 MIT licensed. Created by Bill Erickson.
